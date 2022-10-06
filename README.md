@@ -1,10 +1,10 @@
 # NORD
-Execution Environment:
-Operation System: Microsoft Windows 10, 64bit.
-Physical Memory (RAM)	16.0 GB.
-Python 3.9.
-PyCharm Community Edition 2021.2.
-Alib utility for VNE simulation. 
+Execution Environment:<br />
+Operation System: Microsoft Windows 10, 64bit.<br />
+Physical Memory (RAM)	16.0 GB. <br />
+Python 3.9. <br />
+PyCharm Community Edition 2021.2. <br />
+Alib utility for VNE simulation.  <br />
 
 
 
