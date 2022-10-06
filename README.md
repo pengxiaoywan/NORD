@@ -11,8 +11,8 @@ Alib utility for VNE simulation.  <br />
 
 
 Step 1: Download P3_ALIB_MASTER unzip(alib utility in par with python 3.9)  and copy to the execution drive. 
-Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib).
-The P3_ALIB_MASTER\input contain  reuired pickle files for substrate network generation. Ex: senario_RedBestel.pickle
+	1a. Configure the alib by following the steps mentioned in the link(https://github.com/vnep-approx/alib).
+	1b. Make sure "P3_ALIB_MASTER\input" path contain  senario_RedBestel.pickle. If not, generate the substrate network senario for senario_RedBestel in folder P3_ALIB_MASTER\input and this pickle file contain substrate network information. 
 
 Step 2: Download NORD and keep in the drive where P3_ALIB_MASTER  present. The NORD file contain all executable files related to proposed appraoch and baselines appraoches.
 	topsis.py -> Main file related proposed NORD appraoch.<br />
