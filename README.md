@@ -50,7 +50,6 @@ Step 4: In grpah_extraction_uniform.py:
 
 Step 5: In automate.py file set the VNRs size such as [100,200,300,400,500] and also mnetion the number iteration need to execute for each VNRs size in the iteration variable.
 
-Step 6: Finally run the automate.py file. After succesful running a 1_uniform.pickle file is created and it is having all input parameters realted to both substrate network and Virtual network request parameeters.
-final embedding results are captured in the Results.xlsx.
+Step 6: Finally run the automate.py file. After succesful running a 1_uniform.pickle file is created and it is having all input parameters realted to both substrate network and Virtual network request parameeters and final embedding results are captured in the Results.xlsx.
 
 
