@@ -15,8 +15,8 @@ Configure the alib by following the steps mentioned in the link(https://github.c
 The P3_ALIB_MASTER\input contain  reuired pickle files for substrate network generation. Ex: senario_RedBestel.pickle
 
 Step 2: Download NORD and keep in the drive where P3_ALIB_MASTER  present. The NORD file contain all executable files related to proposed appraoch and baselines appraoches.
-	topsis.py -> Main file related proposed NORD appraoch.
-	greedy.py -> Main file related VNE-MWF baselines.
+	topsis.py -> Main file related proposed NORD appraoch.\\
+	greedy.py -> Main file related VNE-MWF baselines.\\
 	nrm.py	  -> Main file related VNE-NRM 
 	rethinking.py -> Main file related DPGA
 	nodeRankCal.py -> Main file related VNE-NTANRC-D
