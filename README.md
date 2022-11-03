@@ -29,7 +29,7 @@ Step 3: In vne_u.py,  we can set the various parameters related to Virtula netwo
 	3a. We can set the minimum and maximum number of VMs of a VNRs in create_vne function.
 	
 	3b. We can set the virtual network requests demands like BandWidth(min,max), CRB(min,max), LocationX(min,max), LocationY(min,max), Delay(min,max) in vne.append function. 
-	EX: (1, 10, 1, 10, 0, 100, 0, 100, 1, 4) 
+	EX: (1, 5, 1, 10, 0, 100, 0, 100, 1, 4) 
 
 	3c. Run vne_u.py after doing any modification.
 
@@ -45,11 +45,11 @@ Step 4: In grpah_extraction_uniform.py:
             "senario_RedBestel.pickle",)
 
 	4b. In graph.parameters function  set substrate network resources like BandWidth(min,max), CRB(min,max), LocationX(min,max), LocationY(min,max), Delay(min,max). 
-		Ex: (50, 1000, 200, 1000, 0, 100, 0, 100, 1, 1)
+		Ex: (500, 1000, 200, 1000, 0, 100, 0, 100, 1, 1)
 
 	4c. Run grpah_extraction_uniform.py after doing any modification.
 
-Step 5: In automate.py file set the VNRs size such as [100,200,300,400,500] and also mnetion the number iteration need to execute for each VNRs size in the iteration variable.
+Step 5: In automate.py file set the VNRs size such as [250, 500, 750, 1000] and also mnetion the number iteration need to execute for each VNRs size in the iteration variable.
 
 Step 6: Finally run the automate.py file. After succesful running a 1_uniform.pickle file is created and it is having all input parameters realted to both substrate network and Virtual network request parameeters and final embedding results are captured in the Results.xlsx.
 
