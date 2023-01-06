@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 ## Contributors
 - Mr. Keerthan Kumar T G<br />
 https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en <br />
-- anurag satpathy<br />
+- Mr. anurag satpathy<br />
 https://anuragsatpathy.github.io/<br />
 - Dr. Sourav kanti addya<br />
 https://souravkaddya.in/<br />
