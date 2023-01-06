@@ -33,11 +33,7 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 - NodeRankCal.py -> The Main file related to the  VNE-NTANRC-D baseline approach [4]. <br />
 - PageRank.py -> The Main file related to the  VNE-NTANRC-S baseline approach [4]. <br />
 
-- DAA.py -> The Main file related to the proposed NORD approach.<br />
 
-- greedy.py -> The Main file related to the VNE-MWF baseline approach.<br />
-
-- Rethinking.py ->  The Main file related to the  DPGA baseline approach [2].<br />
 
 ## Usage
 
