@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 ### Installation
 
-###  Download the ALIB_Utility tool unzip(alib utility in par with python 2.7) and copy it to the execution drive.<br /> 
+###  Download the ALIB_Utility tool unzip and copy it to the execution drive.<br /> 
 
 - Configure the alib by following the steps mentioned in the github reposotory [1]. <br />
 
