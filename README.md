@@ -66,13 +66,13 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 ### References
 [1] E. D. Matthias Rost, Alexander Elvers, “Alib,” https://github.com/vnep-approx/alib, 2020. <br />
-[2] P. Zhang, H. Yao, Y. Liu, Virtual network embedding based on computing, network, and storage resource constraints, IEEE Internet of Things Journal 5 (5) (2017) 3298–3304. doi:10.1109/JIOT.2017.2726120.
+[2] P. Zhang, H. Yao, Y. Liu, Virtual network embedding based on computing, network, and storage resource constraints, IEEE Internet of Things Journal 5 (5) (2017) 3298–3304. doi: https://doi.org/:10.1109/JIOT.2017.2726120.
 [3] Nguyen, Khoa TD, Qiao Lu, and Changcheng Huang. "Rethinking virtual link mapping in network virtualization." In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), pp. 1-5. IEEE, 2020.<br />
-[4] H. Cao, L. Yang, H. Zhu, Novel node-ranking approach and multiple topology attributes-based embedding algorithm for single-domain virtual network embedding, IEEE Internet of Things Journal 5 (1) (2018) 108–120. doi:10.1109/JIOT.2017.2773489. <br />
+[4] H. Cao, L. Yang, H. Zhu, Novel node-ranking approach and multiple topology attributes-based embedding algorithm for single-domain virtual network embedding, IEEE Internet of Things Journal 5 (1) (2018) 108–120. doi: https://doi.org/10.1109/JIOT.2017.2773489. <br />
 [5] P. Zhang, Incorporating energy and load balance into virtual network embedding process, Computer Communications 129 (2018) 80–88. doi: 
 https://doi.org/10.1016/j.comcom.2018.07.027. <br />
 [6] A. Satpathy, M. N. Sahoo, L. Behera, C. Swain, ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory,
-IEEE Transactions on Services Computing (2022). doi:10.1109/TSC. 2022.3183259. <br />
+IEEE Transactions on Services Computing (2022). doi: https://doi.org/10.1109/TSC. 2022.3183259. <br />
 
 ## Contributors
 - Mr. Keerthan Kumar T G<br />
