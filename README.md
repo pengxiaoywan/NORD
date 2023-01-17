@@ -58,6 +58,10 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 
 - Run grpah_extraction_uniform.py after doing any modification. <br />
 
+### grpah_u.py
+
+- This file generates the standard 1_uniform.pickle file, which contains all the information about substrate network topologies, such as the number of servers, links, and connectivity. It also includes values for each substrate network resource.
+
 ###  In the automate.py file set the VNR size such as [250, 500, 750, 1000] and also mention the number of iterations needs to execute for each VNR size in the iteration variable.<br />
 
 - Finally, run the automate.py file. After successfully running, a 1_uniform.pickle file is created (If it already does not exist in the specified path). It has all input parameters related to the substrate network parameters, such as CRB, Bandwidth, Delay, and Location.
