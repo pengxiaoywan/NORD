@@ -32,6 +32,9 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 - Rethinking.py -> The Main file related to the  DPGA baseline approach [3]. <br />
 - NodeRankCal.py -> The Main file related to the  VNE-NTANRC-D baseline approach [4]. <br />
 - PageRank.py -> The Main file related to the  VNE-NTANRC-S baseline approach [4]. <br />
+- Puvnp.py -> The Main file related to the  PUVNP  baseline approach [5]. <br />
+- Rematch.py -> The Main file related to the  ReMatch  baseline approach [6]. <br />
+
 
 
 
@@ -65,7 +68,11 @@ https://www.youtube.com/watch?v=JKB3aVyCMuo&t=506s<br />
 [1] E. D. Matthias Rost, Alexander Elvers, “Alib,” https://github.com/vnep-approx/alib, 2020. <br />
 [2] P. Zhang, H. Yao, Y. Liu, Virtual network embedding based on computing, network, and storage resource constraints, IEEE Internet of Things Journal 5 (5) (2017) 3298–3304. doi:10.1109/JIOT.2017.2726120.
 [3] Nguyen, Khoa TD, Qiao Lu, and Changcheng Huang. "Rethinking virtual link mapping in network virtualization." In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), pp. 1-5. IEEE, 2020.<br />
-[4] H. Cao, L. Yang, H. Zhu, Novel node-ranking approach and multiple topology attributes-based embedding algorithm for single-domain virtual network embedding, IEEE Internet of Things Journal 5 (1) (2018) 108–120. doi:10.1109/JIOT.2017.2773489.
+[4] H. Cao, L. Yang, H. Zhu, Novel node-ranking approach and multiple topology attributes-based embedding algorithm for single-domain virtual network embedding, IEEE Internet of Things Journal 5 (1) (2018) 108–120. doi:10.1109/JIOT.2017.2773489. <br />
+[5] P. Zhang, Incorporating energy and load balance into virtual network embedding process, Computer Communications 129 (2018) 80–88. doi: 
+https://doi.org/10.1016/j.comcom.2018.07.027. <br />
+[6] A. Satpathy, M. N. Sahoo, L. Behera, C. Swain, ReMatch: An Efficient Virtual Data Center Re-Matching Strategy Based on Matching Theory,
+IEEE Transactions on Services Computing (2022). doi:10.1109/TSC. 2022.3183259. <br />
 
 ## Contributors
 - Mr. Keerthan Kumar T G<br />
@@ -74,6 +81,8 @@ https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en <br />
 https://anuragsatpathy.github.io/<br />
 - Dr. Sourav kanti addya<br />
 https://souravkaddya.in/<br />
+- Dr Shashidhar G Koolagudi <br />
+https://scholar.google.co.in/citations?user=WAyKHHwAAAAJ&hl=en <br />
 
 
 ## Contact
