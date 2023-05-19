@@ -88,6 +88,18 @@ https://souravkaddya.in/<br />
 - Dr Shashidhar G Koolagudi <br />
 https://scholar.google.co.in/citations?user=WAyKHHwAAAAJ&hl=en <br />
 
+## Citation & Acknowledgements
+This codebase is available publicly for only for non-commercial use. If you use this code or any content in your research or wish to refer to the baseline models published in the README, please cite the work as:
+@article{tg2023nord,<br />
+  title={NORD: NOde Ranking-based efficient virtual network embedding over single Domain substrate networks},<br />
+  author={TG, Keerthan Kumar and Addya, Sourav Kanti and Satpathy, Anurag and Koolagudi, Shashidhar G},<br />
+  journal={Computer Networks},<br />
+  volume={225},<br />
+  pages={109661},<br />
+  year={2023},<br />
+  publisher={Elsevier}<br />
+}
+
 
 ## Paper Links to Cite
 - https://www.sciencedirect.com/science/article/pii/S1389128623001068
