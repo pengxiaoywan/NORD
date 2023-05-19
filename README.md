@@ -89,8 +89,11 @@ https://souravkaddya.in/<br />
 https://scholar.google.co.in/citations?user=WAyKHHwAAAAJ&hl=en <br />
 
 
+## Paper Links to Cite
+- https://www.sciencedirect.com/science/article/pii/S1389128623001068
+- https://ieeexplore.ieee.org/document/10041377
+
+
 ## Contact
-
 If you have any questions, simply write a mail to  Keerthanswamy(AT)gmail(DOT)com.
-
 
